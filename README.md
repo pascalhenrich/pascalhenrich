@@ -1,7 +1,7 @@
 <h1>Hello there 👋, I'm Pascal</h1>
-<p>a Computer Science student at Karlsruhe Institute of Technology (KIT) with a strong interest in Machine Learning and Data Science, especially in the context of improving energy systems.
-My focus areas include Reinforcement Learning and Federated Learning, and I'm currently diving deeper into PyTorchRL and TensorDict to write more modular, efficient, and scalable code.
-Feel free to explore my projects—I'm always open to collaboration and continuous learning!</p>
+<p>a Computer Science student at Karlsruhe Institute of Technology (KIT) with a strong interest in **Machine Learning** and **Data Science**, especially in the context of improving **energy systems**.
+My focus areas include **Reinforcement Learning** and **Federated Learning**, and I'm currently diving deeper into **PyTorchRL** and **TensorDict** to write more modular, efficient, and scalable code.
+Feel free to explore my projects — I'm always open to collaboration and continuous learning!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
